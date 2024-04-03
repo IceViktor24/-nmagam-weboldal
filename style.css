@@ -1,0 +1,155 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+h1{
+    text-align: center;
+    text-decoration: underline;
+}
+video{
+width: 320px;
+height: 240px;
+
+
+}
+.navbar {
+    width: 100%;
+    background-color: #555;
+    overflow: auto;
+  }
+  .navbar a {
+    float: left;
+    padding: 12px;
+    color: white;
+    text-decoration: none;
+    font-size: 17px;
+    width: 25%; 
+    text-align: center;}
+    
+    .navbar a:hover {
+        background-color: #000;
+      }
+
+      .navbar a.active {
+        background-color: #04AA6D;
+      }
+      @media screen and (max-width: 500px) {
+        .navbar a {
+          float: none;
+          display: block;
+          width: 100%;
+          text-align: left;}
+        }
+        .btn {
+            background-color: DodgerBlue;
+            border: none; 
+            color: white; 
+            padding: 12px 16px;
+            font-size: 16px; 
+            cursor: pointer; 
+          }
+          .btn:hover {
+            background-color: RoyalBlue;
+          }
+.Én{
+    float:right;
+    height: 400px;
+}
+.H{
+   height: 200px;
+}
+.B{
+    height: 200px;
+}
+body{
+    font-size: 23px;
+    background-image: url(Képek/Sp.png);
+    height: 130vh;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    color: black;
+margin-left: 20%;
+margin-right: 20%;
+font-family: "Roboto", sans-serif;
+  font-weight: 500;
+  font-style: normal;
+
+
+}
+h2{
+    text-decoration: underline;
+}
+strong{
+    color:red;
+font-weight: bold;
+}
+.G1{
+    float: right;
+    height: 200px;
+}
+.Guiterne{
+    height: 200px;
+}
+.G1590{
+    float: right;
+height: 400px;
+}
+.G4{
+    height: 300px;
+}
+.G5{
+    height: 300px;
+}
+.G6{
+    height: 300px;
+}
+.G7{
+    height: 300px;
+}
+.TOP10{
+    height: 400px;
+}
+.g1g{
+    height: 200px;
+}
+.spotify{
+height: 100px;
+}
+.you{
+    height: 200px;
+}
+.tab{
+    height: 500px;
+}
+.r1{
+    
+    height: 200px;
+}
+.r2{
+    
+    height: 200px;
+}
+.r3{
+    
+    height: 200px;
+}
+.r4{
+    
+    height: 200px;
+}
+.r5{
+    
+    height: 200px;
+}
+.r6{
+    
+    height: 200px;
+}
+.r7{
+    
+    height: 200px;
+}
+
+h2{
+    color: red
+}
+
+  
